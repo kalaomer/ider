@@ -2,6 +2,7 @@
     "name": "kalaomer/ider",
     "description": "Get unique value for everthing.",
     "version": "0.1.0-dev",
+    "license": "MIT",
     "authors": [
         {
             "name": "Ömer Kala",
