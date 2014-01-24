@@ -1,0 +1,19 @@
+{
+    "name": "kalaomer/ider",
+    "description": "Get unique value for everthing.",
+    "version": "0.1.0-dev",
+    "authors": [
+        {
+            "name": "Ömer Kala",
+            "email": "kalaomer@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ider\\": "src/"
+        }
+    },
+    "require": {
+
+    }
+}
